@@ -1,0 +1,14 @@
+
+Xtypescript:S1128"5Remove this unused import of 'JSXElementConstructor'.(²§ÓØ8ÚÎ’ÛÈ1
+Ftypescript:S1128"#Remove this unused import of 'Key'.(²§ÓØ8ÛÎ’ÛÈ1
+Ytypescript:S1128"6Remove this unused import of 'PromiseLikeOfReactNode'.(²§ÓØ8ÛÎ’ÛÈ1
+Otypescript:S1128",Remove this unused import of 'ReactElement'.(²§ÓØ8ÛÎ’ÛÈ1
+Ltypescript:S1128")Remove this unused import of 'ReactNode'.(²§ÓØ8ÛÎ’ÛÈ1
+Ntypescript:S1128"+Remove this unused import of 'ReactPortal'.(²§ÓØ8ÛÎ’ÛÈ1
+Ltypescript:S1128")Remove this unused import of 'useEffect'.(ä€Î¤8½ô˜ØÈ1
+Ptypescript:S1128"(Remove this unused import of 'useState'.(±ŒÊïÿÿÿÿÿ8½ô˜ØÈ1
+Ftypescript:S125"Remove this commented out code.(¨Ìíùÿÿÿÿ8½ô˜ØÈ1
+]typescript:S1854"5Remove this useless assignment to variable "onClick".(ï‰¾Æıÿÿÿÿ8¼ğ¨ÛÈ1
+Ftypescript:S125("Remove this commented out code.(õâÉÊıÿÿÿÿ8½ô˜ØÈ1
+typescript:S1077,"jimg elements must have an alt prop, either with meaningful text, or an empty string for decorative images.(ãÈ²«8½ô˜ØÈ1
+Dtypescript:S67471"Unknown property 'jsx' found(ı µ¨úÿÿÿÿ8½ô˜ØÈ1
