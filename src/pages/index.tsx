@@ -22,17 +22,17 @@ export default function Home({results}) {
     }, [])*/
 
     const router = useRouter();
-    const onClick = (id, title) => {
-        router.push(
-                {
-                    pathname: `/movies/${id}`,
-                    query: {
-                        title,
-                    },
-                },
-                `/movies/${id}`
-        );
-    }
+    // const onClick = (id, title) => {
+    //     router.push(
+    //             {
+    //                 pathname: `/movies/${id}`,
+    //                 query: {
+    //                     title,
+    //                 },
+    //             },
+    //             `/movies/${id}`
+    //     );
+    // }
 
     return (
             <div>
