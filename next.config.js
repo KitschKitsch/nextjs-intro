@@ -18,6 +18,10 @@ const nextConfig = {
             {
                 source: "/api/movies",
                 destination: `https://api.themoviedb.org/3/movie/popular?api_key=${API_KEY}` // 유저한테 안보임!
+            },
+            {
+                source: "/api/movies/:id", // id를 가지고 이렇게 들어오면
+                destination: `https://api.themoviedb.org/3/movie/:id?api_key=${API_KEY}` // id를 붙이고 이걸로 보여주기!
             }
         ]
     }
